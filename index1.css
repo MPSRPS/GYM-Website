@@ -1,0 +1,585 @@
+ .left
+{
+	/* border:2px solid #FFFF00; */
+	color:#000000;
+	display: inline-block;
+	position:absolute;
+	left:60px;
+	top:20px;
+	width:145px;
+	height:76px;
+	background-image:"C:\Users\manoh\OneDrive\Desktop\IndustrialTraningProject\itr\IMG\dumbbell-clipart-etsy-15.jpg";
+	font-size:20px;
+} 
+/* .left img
+{
+filter:invert(100%);
+} */
+
+
+
+
+.mid
+{
+color:#FFFFFF;
+/*border:2px solid #FF0000;*/
+margin-left:450px;
+margin-right:470px;
+margin-top:20px;
+}
+
+.right
+{
+	 /* border:2px solid #33FF00;  */
+	color: #FFFFFF;
+	display: inline-block;
+	position:absolute;
+	right:34px;
+	top:20px;
+	text-decoration: underline;
+
+}
+.navbar li
+{
+display: inline-block;
+font-size:20px;
+}
+.navbar li a
+{
+color:#FFFFFF;
+text-decoration:none;
+}
+.navbar li a:hover,.navbar li a.active
+{
+text-decoration:underline;
+color:#999999;
+}
+
+.btn
+{
+	margin:0px 9px;
+	background-color: #000000;
+	color:#0000FF;
+	padding:4px 14px;
+	border: 2px solid grey;
+	border-radius:10px;
+	font-size:20px;
+	cursor:pointer;
+}
+.btn:hover
+{
+	background-color: rgb(255, 247, 247);
+	text-decoration: underline;
+}
+
+.aa
+{
+	/*border:2px solid #FFFFFF;*/
+	color:#FFFFFF;
+	margin-left:135px;
+	margin-right:925px;
+	margin-top:93px;
+	height:55px;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.bb
+{
+/*	border:2px solid #FFFFFF;*/
+	color:#FFFFFF;
+	margin-left:135px;
+	margin-right:1002px;
+	margin-top:0px;
+	height:55px;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.cc
+{
+	/*border:2px solid #FFFFFF;*/
+	color:#FFFFFF;
+	margin-left:135px;
+	margin-right:960px;
+	margin-top:0px;
+	height:55px;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.mm
+{
+	/*	border:2px solid #99FF00;*/
+	color:#FFFFFF;
+	height:350px;
+	background-color:#000000;
+	font-size:36px;
+	text-align: center;
+	line-height: 325px;
+	text-decoration:blink;
+}
+.vv
+{
+	/*border:2px solid  #FF3300;*/
+	margin-left:205px;
+	margin-right:899px;
+	height:715px;
+	margin-top:110px;
+	cursor:pointer;
+	
+}
+.vv img
+{
+opacity: 0.5;
+}
+img:hover 
+{
+  opacity: 1.0;
+}
+.titlesection 
+ {
+/*	border:2px solid #000000;*/
+	margin-left:801px;
+	margin-right:103px;
+	margin-top:-715px;
+	height:683px;
+	color: white;
+	
+  }
+.ll
+{
+	text-align: justify;
+	display: inline-block;	
+}
+.btn1
+{
+	/*border:2px solid #000000;*/
+	margin-left: 879px;
+	margin-right: 466px;
+	margin-top: -65px;
+	height:55px;
+	background-color:#FF0000;
+	text-align: center;
+	line-height:50px;
+	color: #000000;
+	cursor:pointer;
+	/* border:2px #FFFFFF; */
+	border-radius:10px;
+}
+.btn1:hover
+{
+text-decoration:underline;
+background-color:#FF8080;
+color:#000000;
+}
+.top
+{
+border:2px solid #000000;
+
+color:#FFFFFF;
+	height:225px;
+	background-color:#000000;
+	font-size:36px;
+	text-align: center;
+	line-height: 210px;
+	text-decoration:blink;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.side1 
+{
+	
+	border:2px solid #ef0000;
+	/* background-color: #FF0000; */
+	margin-right: 338px;
+    margin-left: 375px;
+    height: 1072px;
+    border-radius: 70px;
+    margin-top: 50px;
+    width: 783px;
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+	
+	
+  
+	
+}
+.qq
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid coral; */
+	margin-left: 45px;
+    margin-top: 35px;
+    margin-right: 15px;
+    height: 1000px;
+	color: #ffffff;
+}
+
+.fname
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 330px;
+    margin-top: -65px;
+}
+.pnum
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid rgb(247, 19, 19); */
+	margin-left: 330px;
+    margin-top: -65px;
+}
+.bm
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid rgb(52, 10, 86); */
+	margin-left: 330px;
+    margin-top: -65px;
+}
+.wei
+{font-family: 'Baloo Bhai 2', cursive;
+	
+		/* border: 2px solid black; */
+		margin-left: 330px;
+		margin-top: -65px;
+}
+.mfo
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 75px;
+    margin-right: 520px;
+	/* color: #000000; */
+}
+.city
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+		margin-left: 330px;
+		margin-top: -61px;
+}
+.zip
+{font-family: 'Baloo Bhai 2', cursive;
+	
+		/* border: 2px solid black; */
+			margin-left: 0px;
+			margin-top: 13px;
+	
+}
+.count
+{font-family: 'Baloo Bhai 2', cursive;
+	
+		/* border: 2px solid black; */
+			margin-left: 0px;
+			margin-top: -40px;
+			margin-right: 370px;
+	
+}
+.list
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-top: 17px;
+}
+.detail
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 293px;
+    margin-top: -215px;
+}
+.smoke
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 0px;
+    margin-right: 520px;
+	margin-top: 65px;
+}
+
+.next
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 280px;
+}
+.start
+{font-family: 'Baloo Bhai 2', cursive;
+/* border:2px solid #000000; */
+
+color:#FFFFFF;
+	height:225px;
+	background-color:#000000;
+	font-size:36px;
+	text-align: center;
+	line-height: 210px;
+	text-decoration:blink;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.side
+{
+	border:2px solid #000000;
+	margin-right: 338px;
+    margin-left: 395px;
+    height: 775px;
+    border-radius: 70px;
+    margin-top: 50px;
+    width: 770px;
+	color: white;
+	border-color:rgb(234, 228, 228);
+}
+
+.ww
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid coral; */
+	margin-left: 45px;
+    margin-top: 35px;
+    margin-right: 15px;
+    height: 672px;
+	
+}
+.doc
+{
+	color: #000000;
+}
+.cf1
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid rgb(247, 19, 19); */
+	margin-left: 303px;
+    margin-top: -78px;
+}
+.cf3
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid rgb(247, 19, 19); */
+	margin-left: 303px;
+    margin-top: -53px;
+}
+.previous
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border: 2px solid black; */
+	margin-left: 570px;
+}
+.button
+{font-family: 'Baloo Bhai 2', cursive;
+	margin-left: 285px;
+}
+.button
+{
+/*border: 2px solid rgb(252, 245, 245);*/
+margin-right: 1026px;
+    margin-top: 20px;
+    height: 45px;
+
+}
+
+.offer_text
+{
+	/* border:2px solid #FFFFFF;  */
+	color:#FFFFFF;
+	margin-top: -191px;
+    margin-left: 1022px;
+}
+.offer_text1
+{
+	/* border:2px solid #FFFFFF;  */
+	color:#FF0000;
+}
+.subhea
+{
+	color:#FF0000;
+	 /* border:2px solid #FFFFFF; */
+	 margin-left:600px;
+}
+.bl
+{
+	 /* border:2px solid #FFFFFF;  */
+	 
+	 color:white;
+	     margin-left: 449px;
+    margin-right: 465px;
+	margin-top: 20px;
+	 
+}
+.bl1
+{
+	 /* border:2px solid #FFFFFF;  */
+	 color: #FF0000;
+	 margin-left: 110px;
+	 margin-right: 15px;
+	 margin-top: -8px;
+	 
+}
+.text1
+{
+	/* border: 2px solid whitesmoke; */
+	margin-right: 1092px;
+	margin-left: 106px;
+	height: 192px;
+	text-align: center;
+	color: #FFFFFF;
+	background-position: top;
+	line-height: 567px;
+ }
+
+.text2
+
+
+{
+	/* border: 2px solid whitesmoke; */
+	margin-right: 567px;
+    margin-left: 528px;
+	margin-top: -194px;
+	height: 192px;
+	text-align: center;
+	color: #FFFFFF;
+	background-position: top;
+	line-height: 567px;
+
+ }
+.text2 img
+	{filter:invert(100%);
+}
+.text3
+
+
+{
+	/* border: 2px solid whitesmoke; */
+	margin-right: 40px;
+    margin-left: 977px;
+
+	margin-top: -194px;
+	height: 192px;
+	text-align: center;
+	color: #FFFFFF;
+	background-position: top;
+	line-height: 567px;
+
+ }
+ .container
+ {
+	margin-top: 50px;
+ }
+ .tp1 {
+    background: #1425af;
+	height: 65px;
+}
+.thead, tbody, tr, td, th {
+    border-color: darkcyan;
+    border-style: solid;
+    border-width: 0px;
+}
+.table tbody th.scope {
+    background: red;
+    border-bottom: 2px solid #e0e5f6;
+    color: #fff;
+    border-bottom: 2px solid white;
+}
+.table tbody th, .table tbody td {
+    border: none;
+    padding: 30px;
+    font-size: 14px;
+    background: #fff;
+    vertical-align: middle;
+    border-bottom: 2px solid #f8f9fd;
+}
+.table tbody td:nth-child(odd) {
+    background: #f4f6fc;
+    border-bottom: 2px solid #eceffa;
+}
+.top5
+{
+border:2px solid #000000;
+
+color:#FFFFFF;
+	height:225px;
+	background-color:#000000;
+	font-size:36px;
+	text-align: center;
+	line-height: 210px;
+	text-decoration:blink;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.copy
+{
+	/* border:2px solid #000000; */
+	margin-top: 50px;
+    margin-left: 500px;
+	color: antiquewhite;
+}
+.vs
+{font-family: 'Baloo Bhai 2', cursive;
+	/* border:2px solid #000000; */
+	
+	color:#FFFFFF;
+		height:225px;
+		background-color:#000000;
+		font-size:36px;
+		text-align: center;
+		line-height: 210px;
+		text-decoration:blink;
+		font-family: 'Baloo Bhai 2', cursive;
+	}
+.rs
+{
+	/* border:2px solid #000000; */
+	margin-right: 640px;
+    margin-left: 655px;
+    margin-top: 20px;
+}
+.yy
+{
+	/* border:2px solid #000000; */
+	margin-right: 550px;
+    margin-left: 615px;
+    margin-top: 20px;
+}
+.uu
+{
+	/* border:2px solid #000000; */
+	margin-right: 384px;
+    margin-left: 475px;
+    margin-top: 20px;
+}
+/* .ll
+{
+	border:2px solid #000000;
+	margin-left: 895px;
+} */
+.li
+{
+		border:2px solid #000000;
+	font-family: 'Baloo Bhai 2', cursive;
+    border: 2px solid #000000;
+    margin-right: 347px;
+    margin-left: 648px;
+    height: 583px;
+    border-radius: 139px;
+    margin-top: -430px;
+    width: 677px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(191, 188, 188);
+}
+.yn
+{
+	/* border: 2px solid black; */
+    margin-top: 35px;
+    margin-left: 193px;
+    margin-right: 166px;
+    color: rgb(0, 0, 0);
+}
+.oo
+{
+	/* border: 2px solid black; */
+    margin-top: 35px;
+    margin-left: 193px;
+    margin-right: 166px;
+    color: rgb(0, 0, 0);
+}
+.qw
+{
+	/* border: 2px solid black; */
+    margin-top: 35px;
+    margin-left: 193px;
+    margin-right: 166px;
+    color: rgb(0, 0, 0);
+}
+.message
+{
+	/* border: 2px solid black; */
+    margin-top: 35px;
+    margin-left: 193px;
+    margin-right: 166px;
+    color: rgb(0, 0, 0);
+}
+.ty
+{
+	/* border: 2px solid black; */
+    margin-top: 35px;
+    margin-left: 305px;
+    margin-right: 166px;
+    color: rgb(0, 0, 0);
+}
